@@ -1,0 +1,39 @@
+.productCard {
+    border: 1px solid;
+    height: 400px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+    /* padding: 20px; */
+    background-color: white;
+    margin-top: 30px;
+    padding: 30px;
+    margin-bottom: 20px;
+    box-shadow: 10px 5px 5px yellow;
+    border-radius: 20px;
+}
+
+.homepageitemimages {
+    height: 150px;
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+.crousal {
+    height: 100px;
+}
+
+.home {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;
+}
+
+.linkproducts {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

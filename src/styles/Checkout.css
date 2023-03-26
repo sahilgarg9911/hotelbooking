@@ -1,0 +1,143 @@
+.CheckoutTag {
+    text-align: center;
+    margin-bottom: 20px;
+    /* border: 1px solid; */
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.CheckoutContainer {
+    display: flex;
+    /* border: 1px solid; */
+    /* margin-top: 20px; */
+    padding-top: 20px;
+    background-color: white;
+}
+
+.ImageContainer {
+    width: 400px;
+    height: 400px;
+    margin-top: 20px;
+    /* border: 1px solid; */
+    margin-right: 35px;
+    margin-left: 35px;
+}
+
+
+/* .buynow {
+    background-color: orangered;
+    border-color: orangered;
+} */
+
+
+/* .ImageContainer img{
+    width: 30%;
+    
+} */
+
+.ContentContainer {
+    width: 30%;
+    /* border-bottom: 2px solid gray; */
+}
+
+.ContentContainer .ProductName {
+    border-bottom: 2px solid gray;
+}
+
+.ContentContainer .ProductName p {
+    color: rgb(174, 124, 221);
+    font-size: 20px;
+    margin: 5px 0px 5px 0px;
+}
+
+.ContentContainer .ProductName h4 {
+    color: orange;
+    margin: 5px 0px 10px 0px;
+}
+
+.ContentContainer .ProductPrice {
+    border-bottom: 2px solid gray;
+}
+
+.ContentContainer .ProductPrice h1 span {
+    font-size: 20px;
+    padding: 4px;
+    margin-bottom: 10px;
+}
+
+.ContentContainer .ProductPrice .ProdcutQuantity {
+    display: flex;
+    margin: 10px 0px 15px 0px;
+    padding: 0px 10px 0px 17px;
+}
+
+.ContentContainer .ProductPrice .ProdcutQuantity button {
+    border: 1px solid gray;
+    border-radius: 7px;
+    margin: 0px 0px 0px 15px;
+    width: 10%;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.ContentContainer .ProdcutDescription {
+    padding: 4px;
+    margin: 5px;
+}
+
+.BuyContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray;
+    width: 25%;
+    margin: 50px;
+    border-radius: 15px;
+}
+
+.BuyContainer p {
+    margin: 20px;
+}
+
+.BuyContainer h3 {
+    margin: 20px;
+}
+
+.buynow {
+    margin: 20px;
+    height: 50px;
+    width: 16vw;
+    font-size: 20px;
+    /* background: #f0c14b; */
+    /* border-color: #a88734 #9c7e31 #846a29; */
+    background-color: orangered;
+    border-color: orangered;
+    /* border-radius: 20px; */
+    cursor: pointer;
+    color: white;
+    margin-left: 40px;
+}
+
+.addtocartfromcart {
+    background-color: rgb(189, 189, 0);
+    border-color: rgb(189, 189, 0);
+}
+
+.hidebutton {
+    display: none;
+}
+
+.addtocart {
+    margin: 20px;
+    height: 33%;
+    width: 16vw;
+    font-size: 20px;
+    /* background: #f0c14b; */
+    /* border-color: #a88734 #9c7e31 #846a29; */
+    background-color: orange;
+    border-color: orange;
+    /* border-radius: 20px; */
+    cursor: pointer;
+    color: white;
+}

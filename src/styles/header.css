@@ -1,0 +1,26 @@
+.bootstrapnavbar {
+    background-color: white;
+}
+
+.d-flex {
+    margin-left: 800px;
+}
+
+.loginbtn {
+    margin-right: 20px;
+}
+
+.username {
+    margin-right: 30px;
+}
+
+.basketCount {
+    margin-left: 30px;
+}
+
+
+/* .formlinks {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+} */

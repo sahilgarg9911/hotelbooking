@@ -1,0 +1,294 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "qq",
+      "email": "qq@gmail.com",
+      "password": "",
+      "isLogin": false,
+      "phone": "22323213231",
+      "address": "adad ff sfsf",
+      "id": 2
+    },
+    {
+      "name": "ravi garg",
+      "email": "ravigarg@gmail.com",
+      "password": "",
+      "isLogin": false,
+      "phone": "34343556643",
+      "address": "sfasf affsadf ",
+      "id": 3
+    },
+    {
+      "name": "sahil garg",
+      "email": "sahilgarg@gmail.com",
+      "password": "",
+      "isLogin": false,
+      "phone": "5565655346545",
+      "address": "ff g gfhgfh tdhjtyjyuililuo;o;",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 15
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 16
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 17
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 18
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 19
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 20
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 21
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 22
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 23
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 24
+    },
+    {
+      "name": "q",
+      "email": "q@gmail.com",
+      "password": "",
+      "isLogin": false,
+      "phone": "11212",
+      "address": "aaaa",
+      "id": 25
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 26
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 27
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 28
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "isLogin": false,
+      "id": 29
+    },
+    {
+      "name": "",
+      "email": "qddqfqdf",
+      "password": "",
+      "isLogin": false,
+      "id": 30
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 31
+    },
+    {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "address": "",
+      "isLogin": false,
+      "id": 32
+    },
+    {
+      "name": "",
+      "email": "q@gmail.con",
+      "password": "",
+      "isLogin": false,
+      "id": 33
+    },
+    {
+      "name": "q",
+      "email": "q@gmail.com",
+      "password": "",
+      "isLogin": false,
+      "phone": "12343212223",
+      "address": "sdvzds gsgsd gg",
+      "id": 34
+    },
+    {
+      "name": "ankur@gmail.com",
+      "email": "ankur mishra",
+      "password": "",
+      "isLogin": false,
+      "phone": "123123123",
+      "address": "adass efsf sfess fess ss",
+      "id": 35
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
